@@ -71,9 +71,11 @@ admin.site.register(Employee,EmployeeAdmin)
 ```
 
 ## OUTPUT
+## SERVER OUTPUT:
 ![server_output](https://github.com/MOHAMEDRIDWAN/django-orm-app/assets/146993368/9a25afcf-2ca0-47d7-baac-e53165afc51e)
 
 Include the screenshot of your admin page.
 
 
 ## RESULT
+Django ORM web application have been created succesfully
